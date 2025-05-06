@@ -18,11 +18,11 @@
 # Output files from R CMD check
 /*.Rcheck/
   
-  # RStudio files
-  .Rproj.user/
+# RStudio files
+.Rproj.user/
   
-  # produced vignettes
-  vignettes/*.html
+# produced vignettes
+vignettes/*.html
 vignettes/*.pdf
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
@@ -32,8 +32,8 @@ vignettes/*.pdf
 *_cache/
   /cache/
   
-  # Temporary files created by R markdown
-  *.utf8.md
+# Temporary files created by R markdown
+*.utf8.md
 *.knit.md
 
 # R Environment Variables
@@ -42,8 +42,8 @@ vignettes/*.pdf
 # pkgdown site
 docs/
   
-  # translation temp files
-  po/*~
+# translation temp files
+po/*~
   
-  # RStudio Connect folder
-  rsconnect/
+# RStudio Connect folder
+rsconnect/
